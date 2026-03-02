@@ -1,4 +1,5 @@
-#Hi 👋, I'm  yves sopchewa
+## Hi 👋, I'm  Yves Sopchewa
+
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Sotware+Engineer;Data+Enthusiast;Data+Enthusiast;AI+Explorer;+IT+Supportas" alt="Typing SVG" /></p>
 ---
 
@@ -33,14 +34,14 @@
 
 #### Web Development
 ![HTML5](https://img.shields.io/badge/HTML-F05032?style=for-the-badge&logo=git&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-181717?style=for-the-badge&logo=github&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Javascript](https://img.shields.io/badge/javascript-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 
 #### Mobile & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux%2CE05032)
+![Linux](https://img.shields.io/badge/Linux-181717?style=for-the-badge&logo=linux&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
