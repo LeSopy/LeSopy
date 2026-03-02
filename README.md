@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm [yves sopchewa]</h1>
-<p><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Sotware+Engineer;Data+Enthusiast;Data+Enthusiast;AI+Explorer;+IT+Supportas" alt="Typing SVG" /></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Sotware+Engineer;Data+Enthusiast;Data+Enthusiast;AI+Explorer;+IT+Supportas" alt="Typing SVG" /></p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LeSopy&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
 ---
 
@@ -37,12 +34,9 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 #### Web Development
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux%2CE05032)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-181717?style=for-the-badge&logo=github&logoColor=white)
+![Javascript](https://img.shields.io/badge/javascript-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 
 #### Mobile & Tools
@@ -50,6 +44,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux%2CE05032)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 
